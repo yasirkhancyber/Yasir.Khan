@@ -12,3 +12,6 @@ This is Simple Portfolio type Readme file.
 * How to reach me.. __https://www.facebook.com/profile.php?id=100046492384891__
 * Pronouns.. __He/Him__
 * Fun Fact.. __I'm Half Dead__
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasir.khan)](https://github.com/anuraghazra/github-readme-stats)
+
