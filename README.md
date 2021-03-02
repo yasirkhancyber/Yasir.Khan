@@ -15,5 +15,14 @@ This is Simple Portfolio type Readme file.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasirkhan)](https://github.com/anuraghazra/github-readme-stats)
 
+### Skills 
+* 💻 HTML, CSS, JS
+* 🐍 Python
+
+#### TOOLS
+* 🆚 VSCODE
+* 🛸 JUPYTER
+* 🐍 ANACONDA
+
 
 
